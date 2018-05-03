@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EShop-SSO.iml" filepath="$PROJECT_DIR$/EShop-SSO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sso-interface/sso-interface.iml" filepath="$PROJECT_DIR$/sso-interface/sso-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sso-service1/sso-service1.iml" filepath="$PROJECT_DIR$/sso-service1/sso-service1.iml" />
+    </modules>
+  </component>
+</project>
